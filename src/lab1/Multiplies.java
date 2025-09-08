@@ -1,5 +1,7 @@
 package lab1;
 
 public class Multiplies {
- int x = 0;
+    public static void main(String[] args) {
+        int x = 0;
+    }
 }
