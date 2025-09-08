@@ -1,5 +1,5 @@
 package lab1;
 
 public class Multiplies {
-  x = 1;
+ int x = 0;
 }
