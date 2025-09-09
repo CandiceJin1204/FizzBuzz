@@ -7,4 +7,7 @@ public class Main {
 //        FizzBuzz.main();
 
     }
+    public staic void methond(){
+        
+    }
 }
