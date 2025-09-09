@@ -9,8 +9,8 @@ public class Main {
     }
     public static void methond(){
         for (int i = 0; i < 4; i++) {
-            System.out.println("236");
-            System.out.println("236");
+//            System.out.println("236");
+//            System.out.println("236");
 
         }
     }
