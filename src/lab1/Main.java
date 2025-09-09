@@ -7,7 +7,9 @@ public class Main {
 //        FizzBuzz.main();
 
     }
-    public staic void methond(){
-        
+    public static void methond(){
+        for (int i = 0; i < 4; i++) {
+            System.out.println("236");
+        }
     }
 }
