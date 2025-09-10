@@ -1,4 +1,5 @@
 package lab1;
+import lab1.Reduce;
 
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.assertEquals;
